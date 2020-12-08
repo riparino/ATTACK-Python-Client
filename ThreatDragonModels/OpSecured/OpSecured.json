@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "owner": "Riparino",
+    "title": "OpSecured",
+    "description": "Threat model test."
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "OpSecured"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "OpSecured Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Riparino"
+  }
+}
