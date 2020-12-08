@@ -12,7 +12,7 @@
     ],
     "diagrams": [
       {
-        "title": "OpSecured Diagram",
+        "title": "Use Case EFT",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0,
         "diagramJson": {
